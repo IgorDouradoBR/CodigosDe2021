@@ -1,0 +1,8 @@
+https://en.wikichip.org/wiki/intel/core_i5/i5-7200u
+https://en.wikichip.org/wiki/intel/microarchitectures/kaby_lake
+https://www.notebookcheck.net/Intel-Core-i5-7200U-Notebook-Processor.172250.0.html
+https://www.intel.com/content/www/us/en/design/products-and-solutions/processors-and-chipsets/kaby-lake-s/technical-library.html?grouping=EMT_Content%20Type&sort=title:asc
+https://www.legitreviews.com/intel-7th-gen-kaby-lake-processor-architecture-details-released_185842
+https://www.cin.ufpe.br/~if674cc/aulas/AulaInfraHW-Superscalar.pdf
+https://edisciplinas.usp.br/pluginfile.php/3418115/mod_resource/content/16/15aula%20-%20Evolucao%20Arq%20Intel%20-%20parte%202.pdf
+https://www.agner.org/optimize/microarchitecture.pdf
